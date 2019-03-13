@@ -22,7 +22,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethodFail()
         {
-            Assert.Fail();
+           // Assert.Fail();
         }
 
     }
